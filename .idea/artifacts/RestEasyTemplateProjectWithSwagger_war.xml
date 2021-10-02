@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RestEasyTemplateProjectWithSwagger:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>RestEasyTemplateProjectWithSwagger</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="RESTEasy.war">
+      <element id="artifact" artifact-name="RestEasyTemplateProjectWithSwagger:war exploded" />
+    </root>
+  </artifact>
+</component>
