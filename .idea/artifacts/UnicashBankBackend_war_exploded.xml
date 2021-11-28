@@ -11,7 +11,7 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="RestEasyTemplateProjectWithSwagger" />
+          <element id="module-output" name="SchoolPenaltyService" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.javassist:javassist:3.27.0-GA" />
@@ -48,7 +48,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/UnicashBankBackend/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="RestEasyTemplateProjectWithSwagger/web/Web" />
+      <element id="javaee-facet-resources" facet="SchoolPenaltyService/web/Web" />
     </root>
   </artifact>
 </component>

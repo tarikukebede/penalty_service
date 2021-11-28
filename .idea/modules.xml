@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RestEasyTemplateProjectWithSwagger.iml" filepath="$PROJECT_DIR$/RestEasyTemplateProjectWithSwagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SchoolPenaltyService.iml" filepath="$PROJECT_DIR$/SchoolPenaltyService.iml" />
     </modules>
   </component>
 </project>
